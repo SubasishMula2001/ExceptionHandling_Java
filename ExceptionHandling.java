@@ -1,8 +1,10 @@
 Exception : It is abnormal condition .
-Exception Handling in java is one of the powerful mechnism to handle the runtime errors so that the normal flow
-of the application can be maintained.
+ In Java, Exception is  one of the powerful mechhism to handle errors during execution
+ of a program so that the normal flow of the application can be maintained.
+
 In Java, Exception is an unwanted or unexpected event, which occurs during the execution of a program, 
 i.e. at run time, that disrupts the normal flow of the program’s instructions
+
  Throwable class is the root class of Exception
  
                                          Throwable
